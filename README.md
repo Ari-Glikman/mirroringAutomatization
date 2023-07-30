@@ -9,3 +9,5 @@ NOTE: THIS IS DONE BETWEEN TWO DOCKER CONTAINERS. MIRRORING MUST BE ENABLED BEFO
 
 NOTE: THE NAMES OF THE CONTAINERS ARE HARDCODED (THIS CAN BE CHANGED EASILY), THEY ARE: mirror-a (primary), mirror-b (secondary)
 
+Check out a video demo [here](https://clipchamp.com/watch/Awa6t4S8vnZ)
+
